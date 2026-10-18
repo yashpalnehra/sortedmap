@@ -1,0 +1,9 @@
+name = "sortedmap"
+version = "0.1.0"
+defaultTargets = ["SortedMap", "Tests"]
+
+[[lean_lib]]
+name = "SortedMap"
+
+[[lean_lib]]
+name = "Tests"
